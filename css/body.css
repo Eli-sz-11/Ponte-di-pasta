@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Mono&family=Fira+Sans:wght@300;400;500;600;700;900&family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nabla:EDPT,EHLT@30..200,24&display=swap");
+
+body {
+    font-family: "Inter";
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+/* Categorie */
+.categories {
+    margin: 20px;
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+.categories p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.categories h2 {
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
