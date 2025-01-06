@@ -18,6 +18,22 @@ body {
     border-radius: 10px;
     margin: 10px;
 }
+.images-test{
+    width: 20%;
+    min-width: 20%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 10px;
+}
+.images-gallery{
+    width: 31%;
+    min-width: 31%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 10px;
+}
 .inside {
     width: 100%;
     display: flex;
